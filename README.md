@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=JoaoNeves-01&show_icons=true&theme=dracula&cache_seconds=2300" alt="Estatísticas do GitHub">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=JoaoNeves-01&show_icons=true&theme=dracula&cache_seconds=14400&v=2" alt="Estatísticas do GitHub">
 
 ### Olá, meu nome é João Vitor Neves! 👋
 
